@@ -4,6 +4,7 @@ twiroboJP	0.000000
 autotweeti	0.000000
 pazudd	0.000000
 ツイッター検索ポータル	0.000000
+sirobot.php	0.000000
 TwitCasting	0.000000
 グルみる	0.000000
 twittbot.net	0.000000
