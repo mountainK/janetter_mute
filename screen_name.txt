@@ -87,6 +87,7 @@ noneeeeed	0.000000
 sakilogin306	0.000000
 spring_mao	0.000000
 pointer2013	0.000000
+__CIELxx	0.000000
 myuuran	0.000000
 pre_pzdr	0.000000
 takataka_pad	0.000000
@@ -300,5 +301,6 @@ tonosyan	0.000000
 rikkaibunta9	0.000000
 RailsJobsCom	0.000000
 Nightbillion	0.000000
+0730Rie	0.000000
 pad_plus	0.000000
 _TARASAN_	0.000000
