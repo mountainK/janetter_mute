@@ -15,6 +15,8 @@ MatsuoYudai	0.000000
 PazdraReview	0.000000
 TakeoMasaki_	0.000000
 464956	0.000000
+dentakusansu	0.000000
+pzdr0money	0.000000
 syochan2525	0.000000
 paztenna	0.000000
 __CIELxx	0.000000
@@ -164,7 +166,7 @@ kurokuma_03	0.000000
 sho0908sho	0.000000
 yuberu_i	0.000000
 ar_cx	0.000000
-kvgby	0.000000
+nimu_gifu_bot	0.000000
 jalgame55	0.000000
 GAMEimmigrant	0.000000
 k696	0.000000
@@ -251,7 +253,7 @@ aldela0289	0.000000
 ryuichi19981217	0.000000
 pazzdorabot	0.000000
 pazudora_antena	0.000000
-nimu_gifu_bot	0.000000
+kvgby	0.000000
 KOP_lfckoji	0.000000
 nhkz8734	0.000000
 w_nabe1006	0.000000
