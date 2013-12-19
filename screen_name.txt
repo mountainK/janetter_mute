@@ -17,6 +17,7 @@ TakeoMasaki_	0.000000
 464956	0.000000
 dentakusansu	0.000000
 pzdr0money	0.000000
+Ay_advance	0.000000
 syochan2525	0.000000
 paztenna	0.000000
 __CIELxx	0.000000
@@ -28,6 +29,7 @@ APP_UP1	0.000000
 kujo_itsuki	0.000000
 pilcre1	0.000000
 santaclaussxma1	0.000000
+F_ginnan	0.000000
 yukaturn_pad	0.000000
 SandW44	0.000000
 karaage2tu	0.000000
@@ -36,6 +38,7 @@ nodoka_dono	0.000000
 y_kuro_z	0.000000
 PZDR_SP	0.000000
 asuyagi	0.000000
+_aoaons	0.000000
 neopresenter	0.000000
 shaolynpazudora	0.000000
 sbgaienmae	0.000000
@@ -49,6 +52,7 @@ dogamzn	0.000000
 ota_new	0.000000
 mickey_fantasia	0.000000
 tomo_710	0.000000
+g5rdv	0.000000
 uw_ryota520	0.000000
 dbhd365	0.000000
 Trafalgarloww	0.000000
@@ -57,6 +61,7 @@ PuzzleTwelve	0.000000
 mayumism519	0.000000
 pazdralovesoku	0.000000
 pazudramora	0.000000
+jagarin_k	0.000000
 Gayneth	0.000000
 __korona__	0.000000
 Chikuwa_hole	0.000000
@@ -66,7 +71,9 @@ pazudorabot	0.000000
 pazsoku	0.000000
 sattleO1	0.000000
 throulodge	0.000000
+bot_words	0.000000
 mutyu11	0.000000
+bw_raven	0.000000
 raim_0420	0.000000
 Juntan	0.000000
 xXmiyoshunXx	0.000000
@@ -85,6 +92,7 @@ akatukikirika	0.000000
 _kurutu_	0.000000
 milktea12241	0.000000
 toya__raaaaaaa	0.000000
+10000RT	0.000000
 TosikunXxx	0.000000
 myuuran	0.000000
 71_mikarin	0.000000
@@ -107,6 +115,7 @@ Cho_K_C	0.000000
 sweetsgazou	0.000000
 mahousekiannnai	0.000000
 dragon_itou	0.000000
+niwakatan	0.000000
 ChiGuevara99	0.000000
 rooot2525	0.000000
 Keima175	0.000000
@@ -128,6 +137,7 @@ noneeeeed	0.000000
 totoro_akasho	0.000000
 kyoujigo	0.000000
 mofu_mofu_S	0.000000
+KOH_Apocrypha	0.000000
 Shiyuan_Liang	0.000000
 _pi2	0.000000
 pzdrms	0.000000
@@ -153,6 +163,7 @@ GnX918	0.000000
 mercy_deen	0.000000
 CarreraGT109	0.000000
 matomena_pad	0.000000
+inotan444sh	0.000000
 setsuna_main	0.000000
 pazpazpazdora1	0.000000
 proto_yuki	0.000000
@@ -185,6 +196,8 @@ aosugiruseisyun	0.000000
 suragorou	0.000000
 hakuto220	0.000000
 kao765	0.000000
+PazruPaz	0.000000
+Oz3431	0.000000
 sillery_	0.000000
 kenpazdra	0.000000
 Reva91_73	0.000000
@@ -213,19 +226,20 @@ stealth_free	0.000000
 tamago8901	0.000000
 rikkaibunta9	0.000000
 _TARASAN_	0.000000
-Oz3431	0.000000
+mitsui_syun	0.000000
 abentsu_pazu	0.000000
 watagashi_24	0.000000
 yayoimaru8	0.000000
 DraPuz_account	0.000000
 k_natsu_	0.000000
-inotan444sh	0.000000
+omochi_prpr	0.000000
 ren_tann	0.000000
 pointer2013	0.000000
 gekka_r	0.000000
 pad_lura	0.000000
 drdrd4u	0.000000
 robin01jp	0.000000
+SOG65	0.000000
 aycm_xoxo	0.000000
 sbkumatori	0.000000
 kiku0306_2	0.000000
@@ -237,6 +251,7 @@ frowervoice	0.000000
 hiropon_pegasus	0.000000
 ratily153	0.000000
 sho_ya1011	0.000000
+matinosukey	0.000000
 makeinu1234	0.000000
 pazudoralink	0.000000
 solo_pazu	0.000000
@@ -246,16 +261,19 @@ o2o5283_w	0.000000
 wwwwww70311262	0.000000
 CorineAtan	0.000000
 pazudora_yougo	0.000000
+danjyonkouryaku	0.000000
 Fai_ry_Blue	0.000000
 point5555	0.000000
 dolagunilu6	0.000000
 Zcondom	0.000000
+MPokehan	0.000000
 Soleilpazu	0.000000
 gunlance630	0.000000
 haggy1ya	0.000000
 aldela0289	0.000000
 ryuichi19981217	0.000000
 pazzdorabot	0.000000
+ryo_ryo1116	0.000000
 pazudora_antena	0.000000
 kvgby	0.000000
 KOP_lfckoji	0.000000
@@ -291,6 +309,7 @@ thinggoro	0.000000
 tamatyan09	0.000000
 KamedaKeisuke	0.000000
 mau_kame	0.000000
+clock09890	0.000000
 LEDkorosuke	0.000000
 cszb_FR	0.000000
 pazzdra_natsu	0.000000
@@ -324,6 +343,7 @@ pad_AzureDragon	0.000000
 Lasei_	0.000000
 asakuranemu1228	0.000000
 pazu_kurama	0.000000
+pazuhiro321	0.000000
 pazumatonews	0.000000
 maganagi0	0.000000
 basunyan_bot	0.000000
@@ -341,6 +361,7 @@ eka_gf_ps	0.000000
 popipopi314	0.000000
 puzzle_pad0721	0.000000
 Kinpatukyotiti	0.000000
+syuntanhiyo	0.000000
 tama13777034	0.000000
 pazudora_follow	0.000000
 desert_sky	0.000000
@@ -364,6 +385,7 @@ nashu108	0.000000
 piron46	0.000000
 56Amg	0.000000
 umashio	0.000000
+StorySige	0.000000
 tmtmtm876	0.000000
 juniku_b	0.000000
 Nightbillion	0.000000
